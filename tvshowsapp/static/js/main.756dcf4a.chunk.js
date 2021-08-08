@@ -23,7 +23,7 @@
                   Object(l.jsx)("h3", {
                     className: "nav__brand",
                     children: Object(l.jsxs)(i.b, {
-                      to: "https://Axe10rellana.github.io/tvshowsapp/tvshowsapp",
+                      to: "/",
                       children: [
                         Object(l.jsx)("i", { className: "fas fa-video" }),
                         " Shows de TV",
@@ -36,14 +36,14 @@
                       Object(l.jsx)("li", {
                         className: "links__link",
                         children: Object(l.jsx)(i.b, {
-                          to: "https://Axe10rellana.github.io/tvshowsapp/tvshowsapp",
+                          to: "/",
                           children: "Inicio",
                         }),
                       }),
                       Object(l.jsx)("li", {
                         className: "links__link",
                         children: Object(l.jsx)(i.b, {
-                          to: "https://Axe10rellana.github.io/tvshowsapp/tvshowsapp/acerca",
+                          to: "/acerca",
                           children: "Acerca",
                         }),
                       }),
@@ -146,9 +146,7 @@
             c = e.rating,
             s = e.id;
           return Object(l.jsxs)(i.b, {
-            to: "https://Axe10rellana.github.io/tvshowsapp/tvshowsapp/singleshow/".concat(
-              s
-            ),
+            to: "/singleshow/".concat(s),
             className: "listitem",
             children: [
               Object(l.jsx)("img", { src: t, alt: a }),
