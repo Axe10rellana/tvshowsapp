@@ -241,13 +241,15 @@ img {
   width: 500px;
   margin: auto;
 }
-.about__info > p {
-  font-size: 1.4rem;
+.about__info > p,
+.about__info > div > p {
+  font-size: 0.8rem;
   margin: 1rem 0;
 }
 .about__info > div > ul > li {
   margin-left: 2rem;
   padding: 0.5rem;
+  font-size: 0.7rem;
 }
 .img404 {
   width: 600px;

@@ -472,7 +472,7 @@
                             n({ type: R }),
                             (e.next = 3),
                             E.a.get(
-                              "https://api.tvmaze.com/search/shows?q=robots"
+                              "https://api.tvmaze.com/search/shows?q=simpsons"
                             )
                           );
                         case 3:
