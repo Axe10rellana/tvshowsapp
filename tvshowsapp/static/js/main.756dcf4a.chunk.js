@@ -400,16 +400,16 @@
                   children: [
                     Object(l.jsx)(r.a, {
                       exact: !0,
-                      path: "https://Axe10rellana.github.io/tvshowsapp/tvshowsapp",
+                      path: "/",
                       component: x,
                     }),
                     Object(l.jsx)(r.a, {
                       exact: !0,
-                      path: "https://Axe10rellana.github.io/tvshowsapp/tvshowsapp/acerca",
+                      path: "/acerca",
                       component: g,
                     }),
                     Object(l.jsx)(r.a, {
-                      path: "https://Axe10rellana.github.io/tvshowsapp/tvshowsapp/singleshow/:id",
+                      path: "/singleshow/:id",
                       component: f,
                     }),
                     Object(l.jsx)(r.a, { path: "*", component: w }),
