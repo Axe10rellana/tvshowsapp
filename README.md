@@ -1,4 +1,4 @@
-#App de shows de TV
+# App de shows de TV
 
 Repositorio de aplicacion de shows de TV hecha en React.js
 
